@@ -40,14 +40,14 @@ To design and implement a secure, scalable, and modular enterprise-level network
 | `Computer Network project.pkt`       | Network simulation file for Packet Tracer  |
 | `screenshot.png`                     | Visual overview of the network topology    |
 | `README.md`                          | Project overview and guide                 |
-| [Packet Tracer 8.2.2 Setup (64-bit)](https://drive.google.com/drive/folders/1hPltHv9p1KFn4sRgOlAzKWtNpegIabhm?usp=drive_link) | Cisco Packet Tracer installer              |
+| [Packet Tracer 8.2.2 Setup (64-bit)](https://drive.google.com/file/d/1-PcBYcLWH4yqrjEBPBtUlhf1yRbiH154/view?usp=sharing) | Cisco Packet Tracer installer              |
 
 ---
 
 ## 🚀 How to Run the Simulation
 
 1. **Install Cisco Packet Tracer**  
-   👉 [Download Packet Tracer 8.2.2 (64-bit)](https://drive.google.com/drive/folders/1hPltHv9p1KFn4sRgOlAzKWtNpegIabhm?usp=drive_link)
+   👉 [Download Packet Tracer 8.2.2 (64-bit)](https://drive.google.com/file/d/1-PcBYcLWH4yqrjEBPBtUlhf1yRbiH154/view?usp=sharing)
 
 2. **Open the `.pkt` file**  
    Launch Packet Tracer and open:  
